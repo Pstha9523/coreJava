@@ -10,7 +10,7 @@ public class LeapYear {
     }
 
     public boolean isLeap(){
-        if(year % 4 == 0){
+        if (year % 4 == 0){
             return true;
         } else {
             return false;
